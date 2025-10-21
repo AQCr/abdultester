@@ -75,10 +75,52 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "grid_images_6jBYFD": {
+      "type": "grid-images",
+      "blocks": {
+        "image_BiiNXz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Webflow_id2IyfqSKv_1.png"
+          }
+        },
+        "image_8aJbqJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/framer_website.png"
+          }
+        },
+        "image_Mzw6Pd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/framer_logo_icon_169149.png"
+          }
+        },
+        "image_mffJVb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pngimg.com_-_wordpress_PNG6.png"
+          }
+        }
+      },
+      "block_order": [
+        "image_BiiNXz",
+        "image_8aJbqJ",
+        "image_Mzw6Pd",
+        "image_mffJVb"
+      ],
+      "name": "Grid Images",
+      "settings": {
+        "heading": "Image Gallery",
+        "description": "<p>Add your gallery description here</p>",
+        "button_color": "#000000"
+      }
     }
   },
   "order": [
     "image_banner",
-    "featured_collection"
+    "featured_collection",
+    "grid_images_6jBYFD"
   ]
 }
