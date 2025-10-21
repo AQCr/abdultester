@@ -102,18 +102,48 @@
           "settings": {
             "image": "shopify://shop_images/pngimg.com_-_wordpress_PNG6.png"
           }
+        },
+        "image_z34DNG": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_c7pf9M": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_9bmd3p": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_YyqGYj": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_FbC9yz": {
+          "type": "image",
+          "settings": {}
+        },
+        "image_RwBHVD": {
+          "type": "image",
+          "settings": {}
         }
       },
       "block_order": [
         "image_BiiNXz",
         "image_8aJbqJ",
         "image_Mzw6Pd",
-        "image_mffJVb"
+        "image_mffJVb",
+        "image_z34DNG",
+        "image_c7pf9M",
+        "image_9bmd3p",
+        "image_YyqGYj",
+        "image_FbC9yz",
+        "image_RwBHVD"
       ],
       "name": "Grid Images",
       "settings": {
-        "heading": "Image Gallery",
-        "description": "<p>Add your gallery description here</p>",
+        "heading": "",
+        "description": "",
         "button_color": "#000000"
       }
     }
