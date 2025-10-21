@@ -146,11 +146,24 @@
         "description": "",
         "button_color": "#000000"
       }
+    },
+    "image_with_text_new_section_z7qcfQ": {
+      "type": "image-with-text-new-section",
+      "custom_css": [],
+      "name": "Image with Text",
+      "settings": {
+        "image": "shopify://shop_images/create-a-banner-image-where-it-shows-a-wooden-table-with-laptop-this-should-have-a-professional-layout.png",
+        "image_alignment": "left",
+        "heading": "",
+        "text": "",
+        "text_alignment": "left"
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_collection",
-    "grid_images_6jBYFD"
+    "grid_images_6jBYFD",
+    "image_with_text_new_section_z7qcfQ"
   ]
 }
